@@ -1,7 +1,3 @@
-// create web server
-// 1. create web server
-// 2. create a route
-// 3. write a response
 
 const http = require('http');
 const fs = require('fs');
